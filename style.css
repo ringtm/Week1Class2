@@ -1,0 +1,27 @@
+#div1
+{background-color: green;
+}
+
+.class1{
+	font-size: 18px;
+	background-color: blue;
+}
+h1{ background-color: red;
+	margin-left: 15px;
+}
+
+h2{ text-decoration: underline;
+}	
+
+img{ background-color: blue;
+     margin-left: 50px; 
+     display: block;
+ }
+
+p{ font-size: 18px;
+    margin-left: 25px;
+    font-weight: bold;
+}     
+
+
+
